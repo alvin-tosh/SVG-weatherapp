@@ -8,6 +8,8 @@
 
 Welcome to your Remotion project!
 
+simple weather app with SVG animation and Remotion 
+
 ## Commands
 
 **Start Preview**
