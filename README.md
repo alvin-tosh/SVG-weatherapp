@@ -12,6 +12,19 @@ simple weather app with SVG animation and Remotion
 
 ## Commands
 
+**Start Dev**
+
+```console
+npm init video
+```
+
+
+```console
+npm start
+```
+
+
+
 **Start Preview**
 
 ```console
